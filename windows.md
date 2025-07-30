@@ -12,7 +12,3 @@ toc: true
 # Section 2
 
 ## Subsection 2.1
-
-## Subsection 2.2
-
-valami
